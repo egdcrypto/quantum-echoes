@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum Echoes - Audiobook</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Georgia', serif;
+            background: #0a0a0f;
+            color: #e0ddd5;
+            min-height: 100vh;
+        }
+
+        .header {
+            text-align: center;
+            padding: 60px 20px 40px;
+            background: linear-gradient(180deg, #0f1029 0%, #0a0a0f 100%);
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            font-weight: 300;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: #c8d8ff;
+            margin-bottom: 8px;
+        }
+
+        .header .subtitle {
+            font-size: 1.1rem;
+            color: #7a8aaa;
+            font-style: italic;
+            letter-spacing: 0.1em;
+        }
+
+        .header .byline {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #555;
+        }
+
+        .player-container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .now-playing {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .now-playing .label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: #555;
+            margin-bottom: 6px;
+        }
+
+        .now-playing .chapter-title {
+            font-size: 1.4rem;
+            color: #c8d8ff;
+        }
+
+        .audio-player {
+            width: 100%;
+            margin-bottom: 40px;
+        }
+
+        .audio-player audio {
+            width: 100%;
+            outline: none;
+        }
+
+        .chapter-list {
+            list-style: none;
+        }
+
+        .chapter-list li {
+            border-bottom: 1px solid #1a1a2e;
+        }
+
+        .chapter-list li:last-child {
+            border-bottom: none;
+        }
+
+        .chapter-btn {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            padding: 16px 12px;
+            background: none;
+            border: none;
+            color: #e0ddd5;
+            font-family: 'Georgia', serif;
+            font-size: 1rem;
+            cursor: pointer;
+            text-align: left;
+            transition: background 0.2s;
+        }
+
+        .chapter-btn:hover {
+            background: #111122;
+        }
+
+        .chapter-btn.active {
+            background: #141430;
+            color: #c8d8ff;
+        }
+
+        .chapter-btn .num {
+            width: 36px;
+            font-size: 0.85rem;
+            color: #555;
+            flex-shrink: 0;
+        }
+
+        .chapter-btn .title {
+            flex: 1;
+        }
+
+        .chapter-btn .play-icon {
+            width: 20px;
+            margin-right: 12px;
+            text-align: center;
+            color: #4a6fa5;
+            flex-shrink: 0;
+        }
+
+        .chapter-btn.active .play-icon {
+            color: #c8d8ff;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            font-size: 0.8rem;
+            color: #333;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 { font-size: 2rem; letter-spacing: 0.15em; }
+            .header .subtitle { font-size: 0.95rem; }
+            .player-container { padding: 20px 12px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Quantum Echoes</h1>
+    <p class="subtitle">Book One</p>
+    <p class="byline">An Audiobook</p>
+</div>
+
+<div class="player-container">
+    <div class="now-playing">
+        <div class="label">Now Playing</div>
+        <div class="chapter-title" id="nowPlaying">Select a chapter</div>
+    </div>
+
+    <div class="audio-player">
+        <audio id="audioPlayer" controls controlsList="nodownload" preload="none">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <ul class="chapter-list" id="chapterList">
+    </ul>
+</div>
+
+<div class="footer">
+    <p>Quantum Echoes 2026</p>
+</div>
+
+<script>
+const chapters = [
+    { num: 1,  title: "The Note",                      file: "audio/01_CHAPTER_1_-_THE_NOTE.mp3" },
+    { num: 2,  title: "The Vanishing",                  file: "audio/02_CHAPTER_2_-_THE_VANISHING.mp3" },
+    { num: 3,  title: "Static and Sparks",              file: "audio/03_CHAPTER_3_-_STATIC_AND_SPARKS.mp3" },
+    { num: 4,  title: "Whispers Across Dimensions",     file: "audio/04_Chapter_4.mp3" },
+    { num: 5,  title: "Echoes of Blood and Time",       file: "audio/05_Chapter_5.mp3" },
+    { num: 6,  title: "Two Years in Shadow",            file: "audio/06_Chapter_6.mp3" },
+    { num: 7,  title: "The Impossible Reunion",         file: "audio/07_CHAPTER_7_-_THE_IMPOSSIBLE_REUNION.mp3" },
+    { num: 8,  title: "The Prime Directive",            file: "audio/08_CHAPTER_8_-_THE_PRIME_DIRECTIVE.mp3" },
+    { num: 9,  title: "The Constant",                   file: "audio/09_CHAPTER_9_-_THE_CONSTANT.mp3" },
+    { num: 10, title: "The Murder",                     file: "audio/10_CHAPTER_10_-_THE_MURDER.mp3" },
+    { num: 11, title: "The Note",                       file: "audio/11_CHAPTER_11_-_THE_NOTE.mp3" },
+    { num: 12, title: "The Box",                        file: "audio/12_CHAPTER_12_-_THE_BOX.mp3" },
+];
+
+const audio = document.getElementById('audioPlayer');
+const nowPlaying = document.getElementById('nowPlaying');
+const list = document.getElementById('chapterList');
+let currentIdx = -1;
+
+chapters.forEach(function(ch, idx) {
+    const li = document.createElement('li');
+    const btn = document.createElement('button');
+    btn.className = 'chapter-btn';
+
+    const playIcon = document.createElement('span');
+    playIcon.className = 'play-icon';
+    playIcon.textContent = '\u25B6';
+
+    const numSpan = document.createElement('span');
+    numSpan.className = 'num';
+    numSpan.textContent = ch.num + '.';
+
+    const titleSpan = document.createElement('span');
+    titleSpan.className = 'title';
+    titleSpan.textContent = ch.title;
+
+    btn.appendChild(playIcon);
+    btn.appendChild(numSpan);
+    btn.appendChild(titleSpan);
+
+    btn.addEventListener('click', function() { playChapter(idx); });
+    li.appendChild(btn);
+    list.appendChild(li);
+});
+
+function playChapter(idx) {
+    var buttons = document.querySelectorAll('.chapter-btn');
+    buttons.forEach(function(btn, i) {
+        if (i === idx) {
+            btn.classList.add('active');
+        } else {
+            btn.classList.remove('active');
+        }
+    });
+
+    currentIdx = idx;
+    var ch = chapters[idx];
+    nowPlaying.textContent = 'Chapter ' + ch.num + ': ' + ch.title;
+    audio.src = ch.file;
+    audio.play();
+}
+
+audio.addEventListener('ended', function() {
+    if (currentIdx < chapters.length - 1) {
+        playChapter(currentIdx + 1);
+    }
+});
+
+audio.addEventListener('contextmenu', function(e) { e.preventDefault(); });
+</script>
+
+</body>
+</html>
