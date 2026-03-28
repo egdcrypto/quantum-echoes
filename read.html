@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum Echoes - Read</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Georgia', serif;
+            background: #0a0a0f;
+            color: #d8d5cd;
+            min-height: 100vh;
+        }
+
+        .header {
+            text-align: center;
+            padding: 60px 20px 40px;
+            background: linear-gradient(180deg, #0f1029 0%, #0a0a0f 100%);
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            font-weight: 300;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: #c8d8ff;
+            margin-bottom: 8px;
+        }
+
+        .header .subtitle {
+            font-size: 1.1rem;
+            color: #7a8aaa;
+            font-style: italic;
+            letter-spacing: 0.1em;
+        }
+
+        .header nav {
+            margin-top: 24px;
+        }
+
+        .header nav a {
+            color: #7a8aaa;
+            text-decoration: none;
+            margin: 0 12px;
+            font-size: 0.9rem;
+            letter-spacing: 0.1em;
+        }
+
+        .header nav a:hover { color: #c8d8ff; }
+
+        .header nav a.active {
+            color: #c8d8ff;
+            border-bottom: 1px solid #4a6fa5;
+            padding-bottom: 4px;
+        }
+
+        .toc {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 30px 20px;
+            border-bottom: 1px solid #1a1a2e;
+        }
+
+        .toc h2 {
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: #555;
+            margin-bottom: 16px;
+        }
+
+        .toc a {
+            display: block;
+            padding: 8px 0;
+            color: #7a8aaa;
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+
+        .toc a:hover { color: #c8d8ff; }
+
+        .toc a span.num {
+            display: inline-block;
+            width: 30px;
+            color: #444;
+        }
+
+        .chapter-content {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 40px 20px 80px;
+            line-height: 1.8;
+            font-size: 1.05rem;
+        }
+
+        .chapter-content h2 {
+            text-align: center;
+            font-size: 1.6rem;
+            font-weight: 300;
+            letter-spacing: 0.15em;
+            color: #c8d8ff;
+            margin-bottom: 8px;
+            padding-top: 40px;
+        }
+
+        .chapter-content h3 {
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: 300;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: #7a8aaa;
+            margin-bottom: 40px;
+        }
+
+        .chapter-content p {
+            margin-bottom: 16px;
+            text-indent: 2em;
+        }
+
+        .chapter-content p.no-indent { text-indent: 0; }
+
+        .chapter-content .section-break {
+            text-align: center;
+            margin: 32px 0;
+            color: #444;
+            font-size: 1.2rem;
+            letter-spacing: 0.5em;
+        }
+
+        .chapter-nav {
+            display: flex;
+            justify-content: space-between;
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px 20px 60px;
+            border-top: 1px solid #1a1a2e;
+        }
+
+        .chapter-nav a {
+            color: #7a8aaa;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+
+        .chapter-nav a:hover { color: #c8d8ff; }
+
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            font-size: 0.8rem;
+            color: #333;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 { font-size: 2rem; letter-spacing: 0.15em; }
+            .chapter-content { padding: 20px 16px 60px; font-size: 1rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Quantum Echoes</h1>
+    <p class="subtitle">Book One</p>
+    <nav>
+        <a href="index.html">Listen</a>
+        <a href="read.html" class="active">Read</a>
+    </nav>
+</div>
+
+<div class="toc" id="toc">
+    <h2>Chapters</h2>
+</div>
+
+<div class="chapter-content" id="content">
+    <p class="no-indent" style="text-align:center; color:#555;">Select a chapter above to begin reading.</p>
+</div>
+
+<div class="chapter-nav" id="chapterNav" style="display:none;">
+    <a href="#" id="prevChapter">Previous</a>
+    <a href="#" id="nextChapter">Next</a>
+</div>
+
+<div class="footer">
+    <p>Quantum Echoes 2026</p>
+</div>
+
+<script>
+var defined_chapters = [
+    { num: 1,  title: "The Note" },
+    { num: 2,  title: "The Vanishing" },
+    { num: 3,  title: "Static and Sparks" },
+    { num: 4,  title: "Whispers Across Dimensions" },
+    { num: 5,  title: "Echoes of Blood and Time" },
+    { num: 6,  title: "Two Years in Shadow" },
+    { num: 7,  title: "The Impossible Reunion" },
+    { num: 8,  title: "The Prime Directive" },
+    { num: 9,  title: "The Constant" },
+    { num: 10, title: "The Murder" },
+    { num: 11, title: "The Note" },
+    { num: 12, title: "The Box" },
+];
+
+var chapterFiles = [
+    "text/chapter_01.txt", "text/chapter_02.txt", "text/chapter_03.txt",
+    "text/chapter_04.txt", "text/chapter_05.txt", "text/chapter_06.txt",
+    "text/chapter_07.txt", "text/chapter_08.txt", "text/chapter_09.txt",
+    "text/chapter_10.txt", "text/chapter_11.txt", "text/chapter_12.txt",
+];
+
+var currentChapter = -1;
+var toc = document.getElementById('toc');
+var content = document.getElementById('content');
+var chapterNav = document.getElementById('chapterNav');
+var prevBtn = document.getElementById('prevChapter');
+var nextBtn = document.getElementById('nextChapter');
+
+defined_chapters.forEach(function(ch, idx) {
+    var a = document.createElement('a');
+    a.href = '#';
+    var numSpan = document.createElement('span');
+    numSpan.className = 'num';
+    numSpan.textContent = ch.num + '.';
+    a.appendChild(numSpan);
+    a.appendChild(document.createTextNode(' ' + ch.title));
+    a.addEventListener('click', function(e) {
+        e.preventDefault();
+        loadChapter(idx);
+    });
+    toc.appendChild(a);
+});
+
+function loadChapter(idx) {
+    currentChapter = idx;
+    var ch = defined_chapters[idx];
+
+    fetch(chapterFiles[idx])
+        .then(function(r) { return r.text(); })
+        .then(function(text) {
+            // Clear content
+            while (content.firstChild) {
+                content.removeChild(content.firstChild);
+            }
+
+            var lines = text.split('\n');
+            var firstLine = true;
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i].trim();
+                if (!line) continue;
+
+                // Chapter header
+                if (firstLine && /^CHAPTER\s+\d+/i.test(line)) {
+                    var h2 = document.createElement('h2');
+                    h2.textContent = 'Chapter ' + ch.num;
+                    content.appendChild(h2);
+
+                    var parts = line.split(/\s*[-:]\s*/);
+                    if (parts.length > 1) {
+                        var h3 = document.createElement('h3');
+                        h3.textContent = parts.slice(1).join(' ');
+                        content.appendChild(h3);
+                    }
+                    firstLine = false;
+                    continue;
+                }
+                firstLine = false;
+
+                // Section break
+                if (line === '*' || line === '***' || line === '---' || line === '* * *') {
+                    var brk = document.createElement('div');
+                    brk.className = 'section-break';
+                    brk.textContent = '* * *';
+                    content.appendChild(brk);
+                    continue;
+                }
+
+                // Regular paragraph
+                var p = document.createElement('p');
+                p.textContent = line;
+                content.appendChild(p);
+            }
+
+            content.scrollIntoView({ behavior: 'smooth' });
+
+            // Update nav
+            chapterNav.style.display = 'flex';
+            if (idx > 0) {
+                prevBtn.style.visibility = 'visible';
+                prevBtn.textContent = 'Previous: ' + defined_chapters[idx - 1].title;
+                prevBtn.onclick = function(e) { e.preventDefault(); loadChapter(idx - 1); };
+            } else {
+                prevBtn.style.visibility = 'hidden';
+            }
+            if (idx < defined_chapters.length - 1) {
+                nextBtn.style.visibility = 'visible';
+                nextBtn.textContent = 'Next: ' + defined_chapters[idx + 1].title;
+                nextBtn.onclick = function(e) { e.preventDefault(); loadChapter(idx + 1); };
+            } else {
+                nextBtn.style.visibility = 'hidden';
+            }
+        });
+}
+</script>
+
+</body>
+</html>

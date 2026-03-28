@@ -1,0 +1,386 @@
+CHAPTER 3 - STATIC AND SPARKS
+
+
+I met Ethan Thorne on the first day of senior year.
+
+He was standing outside the physics lab, looking at his schedule like it had personally betrayed him. Couldn't find the room. His hair was going in about four different directions. He was tall -- not aggressively tall, but tall enough that when he looked up and saw me, he had to angle his chin down, which made it look like he was studying me.
+
+"You're Lawson Taylor," he said.
+
+"That's concerning," I said. "Are you a stalker or a gossip?"
+
+"Your dad works at the Institute. My dad runs it." He stuck out his hand. "Ethan Thorne."
+
+Oh.
+
+Elias Thorne's son. The eccentric physics billionaire's kid, transferred from somewhere expensive. I'd heard the rumors. New student, connected, probably insufferable. But his hand had workshop calluses, not tennis calluses, and his grin looked like it had been assembled slightly wrong. All the right parts, just in an unexpected arrangement.
+
+I shook his hand. "Your dad makes my dad work too many hours."
+
+"Your dad makes my dad spend too much money."
+
+"Fair."
+
+"I think we're supposed to hate each other," he said. "Children of rival physicists. Very dramatic."
+
+"Our dads aren't rivals. My dad is a researcher. Your dad signs the checks."
+
+"Ouch." But he was grinning wider. "Physics lab?"
+
+"Room 207. Second floor. The building has two floors."
+
+"That explains a lot."
+
+We walked together. I don't remember what we talked about. Something about schedules, maybe. Maybe nothing. It was the most ordinary start to anything.
+
+
+*
+
+
+I should explain something about Ethan.
+
+He is not a physicist. He is whatever the opposite of a physicist is. He can look at a broken carburetor and see exactly which part is wrong. He can build a circuit board from memory. He once took apart a motorcycle engine and put it back together with three fewer parts and it ran better.
+
+Ethan thinks with his hands. I think with math.
+
+This should have been a problem.
+
+We never stopped talking.
+
+He knew who I was before the hallway. Our fathers worked together. We'd been in the same orbit for years. I remembered him from a lab tour when we were eleven -- skinny kid with the same wild hair, asked my dad if you could use quantum entanglement to cheat on tests. Dad laughed. I was unimpressed. But the version of Ethan in that hallway was different.
+
+He remembered me too. Better than I remembered him.
+
+"Your dad was always the best part of the Institute," Ethan said one afternoon, maybe a week later. We were sitting on the low wall outside the cafeteria, eating Whataburger he'd brought because the cafeteria food was, and I quote, "a war crime against bread." He was right. "He was the only adult who actually explained things instead of just telling you to trust the process." He pulled at a fry. "Is he okay?"
+
+The question landed wrong. Or right. It landed somewhere I wasn't ready for.
+
+Because Ethan didn't ask the way other people asked. Not the teacher way, where their eyebrows do a concerned thing but they're already thinking about lunch. He asked it the way he'd ask me to hand him a wrench. Direct. Like he actually wanted the answer and was prepared to sit there until he got a real one.
+
+"I'm fine," I said. School answer.
+
+He waited. Ate another fry.
+
+"My dad's been different. Since he went full-time at the Institute. More closed off. Something's going on with this project and he won't tell me what it is, and he's never not told me what he's working on. I used to sit in on his grad seminars, Ethan. Now he locks his office door when I come down the hall."
+
+Ethan nodded. Didn't try to fix it. "Yeah. My dad's the same. Whatever they're working on, it's different from his usual stuff. Bigger. More locked down. And that's saying something, because my dad has never been an open book."
+
+The bell rang. Everyone started moving. We didn't.
+
+"Garage lab after school?" he asked. Same grin. "I built something. I think you'll want to see it."
+
+"Is this a trap?"
+
+"Only if you think Raspberry Pis and a car battery are threatening."
+
+"Those can absolutely be threatening."
+
+"Three-thirty. I'll text you the address. Same number?"
+
+I nodded. He'd memorized my phone number. From middle school.
+
+I didn't know what to do with that, so I said something about our physics teacher's mustache.
+
+
+*
+
+
+Ethan's garage lab was exactly what you'd expect from a seventeen-year-old whose dad worked at a cutting-edge physics institute and who had never been introduced to the concept of adult supervision.
+
+It was magnificent.
+
+Half the garage: a workbench running the entire length of the wall. Oscilloscopes, soldering irons, a disassembled drone, two Raspberry Pis daisy-chained together, and what appeared to be the guts of a microwave oven wired to a car battery. The other half: a futon, a mini fridge, a whiteboard covered in diagrams, and an empty energy drink can collection that had either become an art installation or a health concern. Possibly both.
+
+"Welcome to the lab," Ethan said, doing the arm sweep of a real estate agent showing a penthouse. "Please ignore the fire hazard in the corner. It's a work in progress."
+
+"Which corner?"
+
+"Fair point."
+
+He led me to the workbench. There was a device under a cloth, like a magician's prop. About the size of a shoebox. Sensors, wires, a small screen on top showing a waveform I didn't recognize.
+
+"It's a zero-point energy detector," he said, pulling the cloth off with way more ceremony than necessary. "Designed to measure fluctuations in the quantum vacuum."
+
+I stared at it.
+
+"You built a zero-point energy detector. In your garage. Out of Raspberry Pis and a microwave."
+
+"And a car battery," he said, like that made it better.
+
+"Ethan, most seventeen-year-olds are building beer pong tables."
+
+"Most seventeen-year-olds don't have a dad who brings home superconducting wire in his briefcase and thinks nobody notices." He grinned. "The Institute gets deliveries every week. Dad takes 'samples.' I repurpose them."
+
+"Your dad is going to kill you."
+
+"He hasn't noticed yet. Does it count as stealing if the victim is oblivious?"
+
+"Yes. Obviously yes."
+
+"Anyway. Does it work?" He pulled up a screen of data. "Kind of. Maybe. I'm getting readings, but I can't figure out what they mean. There's something there -- a signal below the noise floor. But it's faint, it fluctuates, and I can't pin it down."
+
+He looked at me. Not asking. Just looking, with this calm expectation, like he'd built the whole thing specifically so he could show it to me.
+
+"Show me the frequency analysis," I said.
+
+I sat down at his workbench. For the next four hours, we fell into something I'd only ever experienced with my dad. Two brains clicking together. One person's weakness is the other person's strength. The conversation moving so fast it stopped being conversation and turned into... I don't know, a jam session. The metaphor's not great but the feeling was.
+
+Ethan built things. I understood things. He could take a concept and make it physical -- turn an equation into a circuit, a theory into a prototype. I could take his readings and find the patterns, pull the signal out of the noise, see the math hiding in the data.
+
+Static and sparks. That's what he called us, later.
+
+"You're the spark, Lawson. The idea, the flash, the thing that ignites. I'm the static. The background noise that makes the spark possible."
+
+"That's not how static works," I'd told him.
+
+"Sure it is. Static electricity is just potential energy waiting for a discharge. I'm the buildup. You're the shock."
+
+I rolled my eyes. But I wrote it down in my notebook that night, in the margin next to a Fourier transform. He was right, even when he was wrong. We worked like a circuit. Incomplete alone. Closed together.
+
+
+*
+
+
+He drove me home that night in his truck. A battered F-150 he'd bought with lawn-mowing money and nursed back to health with salvaged parts and stubbornness. It smelled like motor oil and a pine-tree air freshener that was losing badly.
+
+"Can I ask you something?" he said.
+
+"You're going to anyway."
+
+"Your dad. What do you think he's really working on? With my dad, with Thorne. What's the actual project?"
+
+I looked out the window. You could see the Institute from here, lit up against the dark.
+
+"I don't know," I said. "He talks about macroscopic quantum effects. Superposition at scale. But the specifics -- nothing. He won't share. Not even with me." I stopped. "That's the part that gets me. He's never kept secrets from me. Not about physics. Physics was how we talked about everything. Grief. Loss. The universe. And now he's locked me out."
+
+Ethan was quiet for a second. The truck went over a bump.
+
+"My dad talks in his sleep," he said. "Always has. Mostly gibberish. But sometimes --" He paused. "He says 'zero-point' a lot. And 'state bridge.' And sometimes your dad's name."
+
+"State bridge," I repeated. Sat with it for a second. "What's a state bridge?"
+
+"I looked it up. In quantum mechanics, a 'state' is the condition a particle can exist in. Alive or dead, if you're talking about the cat. A bridge between states would be..." He worked through it. "A way to cross. From one version of reality to another."
+
+"Teleportation," I said.
+
+We looked at each other. The truck drifted slightly toward the shoulder and Ethan corrected it.
+
+"That's insane," he said.
+
+"Yeah."
+
+"Like, actually insane."
+
+"Yeah."
+
+We pulled up to my house. Porch light on. Everything else dark. Dad was still at the Institute.
+
+"Ethan?"
+
+"Yeah?"
+
+"Don't tell anyone about any of this. The detector, the state bridge, our dads. Just -- don't."
+
+"I know." No grin. No crooked smile. Just steady eyes in the dark cab of a truck. "I know, Lawson. I won't."
+
+I believed him.
+
+I got out. He waited until I was inside. I stood in the dark hallway and listened to the engine fade and thought: I trust that person.
+
+It would take eighteen more years to find out what that cost.
+
+
+*
+
+
+The rest of senior year was the best year of my life, which doesn't make sense given the ingredients.
+
+My mother was dead. My father was disappearing into his work. I was living in a town built by a man who gave me a low-grade unease I couldn't explain.
+
+Not "best year" ingredients.
+
+But Ethan.
+
+Three-thirty every day, his garage. Sometimes later. Sometimes weekends. Sometimes random Tuesday nights when I texted him at eleven because I'd had an idea about resonance frequencies and couldn't wait. He always answered. Always. Even when he was clearly asleep, even when his response was just a string of consonants that meant "I'm getting dressed, fifteen minutes."
+
+We improved his detector. I redesigned the sensor array using principles from Dad's published papers -- the public ones, the ones that weren't locked behind whatever wall of secrecy had gone up. Ethan rebuilt the hardware three times. Each version more sensitive. By December, we had it: confirmed fluctuations in the zero-point field. Faint, variable, but real.
+
+The universe wasn't silent. It was humming.
+
+One night in October, I came home and found Dad at the kitchen table with our copy of Temmer's Quantum Mechanics. He was writing on a scrap of paper. When he saw me, he slipped the paper between the pages and closed the book. Quick.
+
+"Leaving me notes again?" I asked, going for casual.
+
+He smiled. Tired, warm, distracted. The Henry Taylor smile I'd been seeing less and less. "Always, kiddo. Even when I forget everything else."
+
+I found the note later. It said: The universe doesn't play favorites. But I do. You're my favorite quantum state.
+
+I kept it. I kept all of them. Every scrap of paper, every dumb pun about quarks and leptons. I didn't know I was collecting evidence of a man about to vanish.
+
+I thought I was just collecting Dad.
+
+
+*
+
+
+Ethan worried about his father.
+
+Not the way I worried about mine -- not the helpless anger of watching someone close a door in your face. Ethan's worry was quieter. More complicated.
+
+"He's not warm," Ethan said one night in the garage. He was staring at his hands. We were supposed to be calibrating the detector but neither of us had touched it in twenty minutes. "I don't mean he's cruel. He's just... focused. On things that aren't people. He looks at the world like it's a chess board. Everything's a piece to be moved."
+
+"Your dad's not a bad person," I said, because that seemed like the right thing to say.
+
+Ethan looked at me. For just a second his eyes held something I didn't recognize. Something older than seventeen. "No," he said. "He's not. But sometimes I wonder if he'd notice the difference."
+
+I opened my mouth and what came out was, "You know, that's kind of how my dad describes the zero-point field -- the idea that something can be everywhere and still be, um."
+
+I stopped.
+
+I actually heard myself doing it. Ethan was sitting there telling me something real about his father, and I was lunging for a physics analogy the way a drowning person grabs whatever's floating nearby. And it didn't even make sense. And we both knew it.
+
+"The idea that something can be everywhere and still be what?" Ethan asked. His voice was gentle but there was something else in it. Tiredness, maybe.
+
+"I don't know. I lost the thread."
+
+"Yeah."
+
+Silence. Not our usual comfortable silence, the two-people-working-on-the-same-problem kind. This was different. I'd taken his vulnerability and shoved it in a drawer and he'd watched me do it and now the drawer was hanging open and neither of us was going to mention it.
+
+"I'm sorry," I said. "About your dad. I mean it. I don't know why I --"
+
+"It's fine."
+
+"It's not, though."
+
+Ethan looked at me for a long moment. Then the grin came back. Not the full version, but enough. "Lawson, I've known you for two months and I've already accepted that you handle emotional conversations the way a computer handles a power surge. Badly, and with sparks."
+
+"That's not flattering."
+
+"Wasn't supposed to be. Come look at these readings. I'm getting something weird in the seventeen-hertz range."
+
+I went and looked at the readings. We were okay. But I sat closer to him on the bench than I usually did, and I think we both knew why.
+
+
+*
+
+
+Two days before my father disappeared, Ethan and I sat on the hood of his truck in an empty parking lot.
+
+"Do you ever think about what's out there?" I asked.
+
+"All the time," he said. "But probably not the way you mean. You're thinking about quantum states and multiverses and the mathematical structure of reality. I'm thinking about whether aliens have coffee."
+
+"That's what you think about when you look at the stars?"
+
+"It's a valid question. If there's intelligent life out there, statistically, at least one civilization has figured out caffeine. And that civilization is probably running the universe, because nobody conquers galaxies without espresso."
+
+I laughed. Actually laughed. From my stomach.
+
+"You're an idiot," I said.
+
+"Correct. But I'm an idiot who makes you laugh, and that makes me essential."
+
+We sat for a while. Stars did their thing. Truck hood cooled. Somewhere a dog was barking -- that rhythmic, purposeless bark dogs do when they've forgotten why they started.
+
+"Lawson?"
+
+"Yeah?"
+
+"Whatever your dad's working on. Whatever Thorne is building. If things get weird -- you know I'm here, right? Like, here here. Not just garage-lab here."
+
+He didn't look at me when he said it. Kept his eyes up. Gave me the space to not respond.
+
+"I know," I said.
+
+Two days later, my father vanished.
+
+Ethan was at my house within the hour. He didn't bring food. Didn't bring platitudes. Just sat on the floor of my father's empty office with me while I held a note that said It's not you, it's not me, it's Schrodinger and shook.
+
+He's been sitting on floors with me ever since.
+
+
+*
+
+
+I realize I've been staring at this bagel for five minutes.
+
+Ethan is next to me on the basement floor. Patient as always. He's pulled out his phone, reading something or pretending to, giving me space to come back from wherever my head went. Schrodinger is purring on top of the console across the room. Little motor in a quiet house.
+
+"Ethan."
+
+"Yeah."
+
+"If this works. If I step into that pod and the jump works and I go somewhere. There's a chance I won't come back."
+
+He puts his phone down. Looks at me. Same green eyes, eighteen years older.
+
+"I know," he says.
+
+"And you're okay with that?"
+
+"No. I'm not even slightly okay with that." He pauses. "But you've been building toward this for sixteen years. You rebuilt a machine that the entire scientific establishment said was impossible. In a basement. Out of borrowed parts and stolen superconductors. You figured out the DNA resonance code that your father never cracked. You're going to find him."
+
+"But?"
+
+"No but." He reaches into his pocket. Pulls out a flash drive. Holds it out. "Latest calibration data from the detector. The one we built in the garage. I've been updating it. Eighteen years of zero-point energy readings from this location." He turns it over in his fingers. "Figured if you're jumping into the unknown, you might want a way to find your way home."
+
+I take the flash drive. It's warm from his pocket.
+
+Eighteen years of data. Patient, methodical, Ethan work.
+
+"Thank you," I say. And I mean all of it.
+
+He hears all of it.
+
+"Eat your bagel," he says.
+
+
+*
+
+
+An hour later, I'm standing in front of the pod.
+
+The lab is quiet. Ethan went upstairs. I don't know if it's to give me space or because he can't watch.
+
+Schrodinger has moved from the console to the top of the pod. The warm spot on the housing. Same spot the original Schrodinger chose on the State Bridge the night my father disappeared.
+
+I should make him move. The cat should not be on the machine.
+
+But he's looking at me with his one eye, and I think about the other Schrodinger -- the one who went with my father, who sat on his shoulder through whatever's on the other side. Same cat. Both of them. Here and there.
+
+"You know something, don't you," I say. "You've always known."
+
+He blinks. Slowly.
+
+I press my forearm against the HUD. It warms on contact, bonds to my skin, and the holographic display pops up. Blue light, sharp and clean.
+
+I plug the flash drive into the pod's auxiliary port. The readings merge with the existing calibration. More depth. A reference point.
+
+A way home.
+
+I can hear Ethan upstairs, running the faucet, washing the coffee mugs I've been hoarding. Cleaning up after me. Because that's what he does.
+
+I think about my father. About the note. About the night he stood in front of a machine like this one and grabbed a cat and stepped into light.
+
+It's not you, it's not me, it's Schrodinger.
+
+I know what it means now. The cat in the box isn't alive or dead until someone looks. The universe stays in superposition until an observer collapses it. Dad wasn't saying goodbye. He wasn't leaving a breadcrumb. He was saying: the answer is in the looking. Stop waiting. Open the box.
+
+I step into the pod.
+
+Schrodinger peers down at me over the edge. One green eye.
+
+"Wish me luck," I say.
+
+He yawns.
+
+I hit the switch.
+
+The hum comes up. The real hum -- the one underneath everything, the zero-point pulse my father heard and Thorne harnessed and Ethan detected in a garage with a car battery and a stolen superconductor.
+
+The blue light rises.
+
+The pod hums.
+
+I go.

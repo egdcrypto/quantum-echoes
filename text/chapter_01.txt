@@ -1,0 +1,132 @@
+CHAPTER 1 - THE NOTE
+
+
+My father left me a note. Nine words. Written on a scrap of paper torn from the margin of Temmer's Quantum Mechanics, third edition. He'd stuck it between pages 142 and 143 -- the superposition chapter.
+
+Lawson, it's not you, it's not me, it's Schrodinger.
+
+Okay. So.
+
+I was nineteen when I found it. Nineteen and angry and standing in the wreckage of my father's lab. The explosion -- or whatever it was -- had scorched the walls, melted about two hundred thousand dollars' worth of equipment, and left behind exactly zero trace of Dr. Henry Taylor.
+
+Theoretical physicist. Terrible cook. Worse singer.
+
+Gone.
+
+Not dead. They never found a body. Not missing, because after four months the search got downgraded from "active" to "administrative," which is bureaucrat for "we stopped looking but the paperwork hasn't caught up yet." Not even "presumed deceased." That took three more years, an insurance fight, and a level of stubbornness on my part that I'm genuinely proud of.
+
+Just gone. Like someone deleted a variable from an equation and the math stopped working but the universe shrugged and kept going.
+
+I found the note on a Tuesday. I remember because I'd skipped Advanced Electromagnetic Theory to go to the lab. And "break into the lab" is generous -- the door was unlocked. It had been unlocked since the investigation ended. Apparently nobody at the Thorne Institute for Advanced Physics thought it was worth locking up a room that smelled like ozone and burnt wiring.
+
+The book was on the floor, half-buried under a collapsed shelf. Dad's copy. Coffee rings on the cover. Margin notes in three colors of ink: black for first reads, blue for revisions, red for ideas that showed up at 3 a.m. and could be brilliant or could be the result of too much coffee and not enough sleep. The spine was cracked at the superposition chapter. It always was. Dad called it "the page where physics gets fun."
+
+I opened it. The note fell out.
+
+Nine words. His handwriting. The paper wasn't even singed. He'd written this before whatever happened.
+
+Lawson, it's not you, it's not me, it's Schrodinger.
+
+I read it eleven times. I counted.
+
+Here's the thing about my dad. He left notes everywhere. In books, in coat pockets, taped to the fridge, stuffed into the lining of my backpack where I'd find them three weeks later in the middle of a lecture. He was a man who expressed love like some people express opinions -- constantly, without filter, and without checking whether anyone had asked.
+
+Don't forget you're extraordinary. Your old man loves you. The universe is weird and so are we.
+
+Stuff like that.
+
+But this note was different. This wasn't Dad being Dad. This was specific. Deliberate. He wrote "Schrodinger." Not the equation. Not the thought experiment. The name. Like he was pointing at something.
+
+I stood in that wrecked lab, holding a scrap of paper, and I made a decision that would eat the next sixteen years of my life.
+
+I decided it meant something.
+
+
+*
+
+
+Sixteen years later, I'm standing in a different lab. Mine.
+
+And I'm pretty sure I've proven my father right.
+
+The lab is in my basement. I know. Glamorous. When I say "lab" I mean a sectioned-off corner of an unfinished basement in a house I bought specifically because the basement was big enough. Concrete walls. Concrete floor. Exposed joists and ductwork and electrical wiring that an electrician once looked at, made a noise like a wounded animal, and quoted me a number I'm still trying to forget.
+
+It is, by any reasonable standard, a terrible laboratory.
+
+But it works. And it contains the most advanced quantum transportation device ever built, plus the only living thing that has successfully traveled to another dimension and come back. Though "in one piece" is a stretch, since he only has one eye.
+
+The cat is watching me.
+
+His name is Schrodinger. I'm a physicist and I'm not above the obvious. He's a gray tabby, age unknown, one eye (the left one was lost to what the vet diplomatically called "a disagreement with something larger"), and his entire personality can be summed up as low-grade contempt for all living things. Except the warm spot on top of the quantum resonance array. He loves that spot. He loves it more than he has ever loved me.
+
+"Stop judging me," I tell him.
+
+He does not stop.
+
+I turn back to the console. Three monitors, two servers I built from salvaged parts, and a custom interface running on software I wrote myself. I had to invent some of the math to make it work, which means the programming language doesn't technically exist yet. Is that a flex? I think that's a flex.
+
+Okay. The data.
+
+The resonance signature is clean. Like, really clean. Cleaner than the animal trials. Cleaner than the probe tests. Cleaner than anything I've gotten in six years of working down here. The quantum field is stable. The dimensional targeting array -- my modification to Dad's original design, four years to develop and two more to calibrate -- is locked on.
+
+Everything is green.
+
+I look at the pod.
+
+Right. So. The pod. Imagine someone described a phone booth to an engineer, and that engineer had never seen a phone booth, and also the engineer was me at two in the morning running on four hours of sleep and a conviction that I could make aerospace-grade aluminum do things the manufacturer never intended. It's about seven feet tall, four feet wide. The exterior is smooth. One door. One little window. The inside is padded -- not for comfort, but because early testing showed that dimensional transit involves a few seconds of violent disorientation and I got really tired of patching the drywall.
+
+Iteration seven. The first six were worse. Don't ask about iteration three.
+
+This is the Quantum State Bridge. Portable version.
+
+My father built the original. The one that blew up. His was the size of a room: massive coils, industrial generators, enough cable to wire a small city. It was supposed to prove a theory, not transport a person. But on the night of March 15, 2008, the theory became practical whether anyone was ready for it or not, and it took my father with it.
+
+I know this because I spent sixteen years figuring it out.
+
+I know this because the note told me where to look.
+
+It's not you, it's not me, it's Schrodinger. Not the thought experiment. Not the equation. The cat. Our actual cat. Schrodinger, who was in the lab that night, sitting on top of the resonance array because it was warm and he is a cat and that is what cats do. They found him the next morning in the wreckage. Alive. Uninjured. One-eyed. Completely unbothered.
+
+Sixteen years of research later, I can tell you why. The cat exists in a state of quantum superposition across at least two parallel dimensions simultaneously.
+
+The cat is a quantum bridge.
+
+The cat is currently sitting on my keyboard.
+
+"Get off the -- Schrodinger!"
+
+He shifts approximately one inch. Three of my calibration settings are now wrong. I fix them. He watches me fix them with an expression that says he'll do it again and we both know it.
+
+"Okay," I say. "This is it."
+
+He blinks. One slow blink. For Schrodinger, that's practically a standing ovation.
+
+I pull up the final diagnostic. Everything green. The resonance matrix is calibrated to my father's DNA signature -- a pattern I isolated from his personal effects and spent three years learning to read in the quantum noise. It's there. Faint but consistent. A thread.
+
+My phone buzzes. Ethan.
+
+You up? Three tacos or four?
+
+I stare at the message. Then I type: Four. And coffee.
+
+A pause. Then: It's 4 a.m. and you want four tacos and coffee. You're either about to do something brilliant or something profoundly stupid.
+
+Both, I type. Bring Schrodinger a bagel.
+
+The cat doesn't eat bagels, Lawson.
+
+He eats everything. He's a quantum anomaly with no standards.
+
+Fair point. Twenty minutes.
+
+I put down the phone.
+
+I look at the pod. I look at the cat. I look at the data.
+
+Sixteen years. A wrecked lab, a nine-word note, a one-eyed cat, and more hours of work than I can calculate. Which is saying something, because I can calculate most things.
+
+"Okay, Schrodinger," I say. "Just you and me."
+
+He yawns.
+
+I decide that counts.
