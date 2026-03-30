@@ -1,0 +1,194 @@
+CHAPTER 1 - THE NOTE
+
+
+My father left me a note. Nine words. Written on a scrap of paper torn from the margin of Temmer's Quantum Mechanics, third edition. He'd stuck it between pages 142 and 143 -- the superposition chapter.
+
+Lawson, it's not you, it's not me, it's Schrodinger.
+
+Okay. So.
+
+I was nineteen when I found it. Nineteen and angry and standing in the wreckage of my father's lab. The explosion -- or whatever it was -- had scorched the walls, melted about two hundred thousand dollars' worth of equipment, and left behind exactly zero trace of Dr. Henry Taylor.
+
+Theoretical physicist. Terrible cook. Worse singer.
+
+Gone.
+
+Not dead. They never found a body. Not missing, because after four months the search got downgraded from "active" to "administrative," which is bureaucrat for "we stopped looking but the paperwork hasn't caught up yet." Not even "presumed deceased." That took three more years, an insurance fight, and a level of stubbornness on my part that I'm genuinely proud of.
+
+Just gone. Like someone deleted a variable from an equation and the math stopped working but the universe shrugged and kept going.
+
+I found the note on a Tuesday. I remember because I'd skipped Advanced Electromagnetic Theory to go to the lab. And "break into the lab" is generous -- the door was unlocked. It had been unlocked since the investigation ended. Apparently nobody at the Thorne Institute for Advanced Physics thought it was worth locking up a room that smelled like ozone and burnt wiring.
+
+The book was on the floor, half-buried under a collapsed shelf. Dad's copy. Coffee rings on the cover. Margin notes in three colors of ink: black for first reads, blue for revisions, red for ideas that showed up at 3 a.m. and could be brilliant or could be the result of too much coffee and not enough sleep. The spine was cracked at the superposition chapter. It always was. Dad called it "the page where physics gets fun."
+
+I opened it. The note fell out.
+
+Nine words. His handwriting. The paper wasn't even singed. He'd written this before whatever happened.
+
+Lawson, it's not you, it's not me, it's Schrodinger.
+
+I read it eleven times. I counted.
+
+Here's the thing about my dad. He left notes everywhere. In books, in coat pockets, taped to the fridge, stuffed into the lining of my backpack where I'd find them three weeks later in the middle of a lecture. He was a man who expressed love like some people express opinions -- constantly, without filter, and without checking whether anyone had asked.
+
+Don't forget you're extraordinary. Your old man loves you. The universe is weird and so are we.
+
+Stuff like that.
+
+But this note was different. This wasn't Dad being Dad. This was specific. Deliberate. He wrote "Schrodinger." Not the equation. Not the thought experiment. The name. Like he was pointing at something.
+
+I stood in that wrecked lab, holding a scrap of paper, and I made a decision that would eat the next sixteen years of my life.
+
+I decided it meant something.
+
+
+*
+
+
+Sixteen years later, I'm standing in a different lab. Mine.
+
+And I'm pretty sure I've proven my father right.
+
+The lab is in my basement. I know. Glamorous. When I say "lab" I mean a sectioned-off corner of an unfinished basement in a house I bought specifically because the basement was big enough. Concrete walls. Concrete floor. Exposed joists and ductwork and electrical wiring that an electrician once looked at, made a noise like a wounded animal, and quoted me a number I'm still trying to forget.
+
+It is, by any reasonable standard, a terrible laboratory.
+
+But it works. And it contains the most advanced quantum transportation device ever built, plus the only living thing that has successfully traveled to another dimension and come back. Though "in one piece" is a stretch, since he only has one eye.
+
+The cat is watching me.
+
+His name is Schrodinger. I'm a physicist and I'm not above the obvious. He's a gray tabby, age unknown, one eye (the left one was lost to what the vet diplomatically called "a disagreement with something larger"), and his entire personality can be summed up as low-grade contempt for all living things. Except the warm spot on top of the quantum resonance array. He loves that spot. He loves it more than he has ever loved me.
+
+"Stop judging me."
+
+He does not stop.
+
+I turn back to the console. Three monitors, two servers I built from salvaged parts, and a custom interface running on software I wrote myself. I had to invent some of the math to make it work, which means the programming language doesn't technically exist yet. Is that a flex? I think that's a flex.
+
+Okay. The data.
+
+The resonance signature is clean. Like, really clean. Cleaner than the animal trials. Cleaner than the probe tests. Cleaner than anything I've gotten in six years of working down here. The quantum field is stable. The dimensional targeting array -- my modification to Dad's original design, four years to develop and two more to calibrate -- is locked on.
+
+Everything is green.
+
+I knew before I checked. That's the part I can't explain. Standing at the console, before I pulled up a single diagnostic, I knew tonight was the night. Not hoped. Not suspected. Knew, the way you know your own name. The certainty arrived before the evidence. I checked the numbers and the numbers confirmed what I already felt.
+
+That's not how science works. I filed it under adrenaline and moved on.
+
+But let me back up. Because "everything is green" doesn't mean anything unless you understand what I built and why it should be impossible.
+
+Okay. Zero-point energy. Here's the thing.
+
+Everything has a lowest energy state. Even at absolute zero -- the coldest anything can possibly get -- there's still energy. Particles can't sit perfectly still. Heisenberg won't let them. It's baked into the math of the universe, right there in the uncertainty principle: you cannot simultaneously know a particle's exact position and momentum. Which means particles are always moving, always vibrating, even when there's nothing making them move.
+
+So the vacuum of space, the nothing between atoms, isn't actually nothing. It's buzzing. Virtual particles popping in and out of existence so fast you can't catch them. Borrowing energy from the universe and paying it back before anyone notices. This isn't speculation. This is established physics. Peer-reviewed, experimentally confirmed, boring-at-faculty-meetings physics.
+
+Except someone did notice.
+
+In 1948, a Dutch physicist named Hendrik Casimir figured out that if you put two metal plates really close together -- we're talking nanometers -- the vacuum between them behaves differently than the vacuum outside. Fewer virtual particles fit in the gap. The wavelengths are restricted, like how a guitar string can only vibrate at certain harmonics depending on its length. Inside the gap, only certain wavelengths fit. Outside, all of them exist. That imbalance creates a force. A real, measurable, physical force.
+
+Two uncharged metal plates. Nothing between them. And they push together.
+
+Casimir predicted it. Almost fifty years later, in 1997, a physicist named Steve Lamoreaux at Yale confirmed it experimentally. The force is tiny -- about a microNewton for plates a micrometer apart. But it's real. The nothing between the plates is pushing them.
+
+Dad spent twenty years asking: if nothing can push metal plates, what else can nothing do?
+
+And he wasn't the only one asking. Plenty of physicists have poked at ZPE over the decades. Most of them concluded it was interesting but useless -- the energy is there, but extracting it in any meaningful way seemed impossible. Like being surrounded by an ocean but having no cup.
+
+Dad disagreed. Dad thought the ocean wasn't just energy. He thought it was structure. A connective medium. That the zero-point field links parallel dimensions the way the electromagnetic spectrum links radio stations -- different frequencies, same medium, all overlapping in the same space.
+
+If he's right, then the vacuum of space isn't just humming. It's a switchboard.
+
+His State Bridge was the phone.
+
+I look at the pod.
+
+Right. So. The pod. Imagine someone described a phone booth to an engineer, and that engineer had never seen a phone booth, and also the engineer was me at two in the morning running on four hours of sleep and a conviction that I could make aerospace-grade aluminum do things the manufacturer never intended. It's about seven feet tall, four feet wide. The exterior is smooth. One door. One little window. The inside is padded -- not for comfort, but because early testing showed that dimensional transit involves a few seconds of violent disorientation and I got really tired of patching the drywall.
+
+Iteration seven. The first six were worse. Don't ask about iteration three.
+
+This is the Quantum State Bridge. Portable version.
+
+The way it works -- okay, let me think about how to explain this. Three stages.
+
+Stage one: ZPE amplification. Inside the pod walls, there's a network of superconducting coils cooled by a closed-loop helium system. When I activate the coils, they create a controlled cavity -- essentially a macro-scale version of Casimir's two metal plates. Except instead of two flat plates nanometers apart, it's a three-dimensional resonance chamber. The cavity restricts vacuum fluctuations the same way Casimir's plates do, but at a scale large enough to amplify the effect. The ZPE field goes from "background hum you need a billion-dollar detector to notice" to "active, readable, manipulable signal."
+
+Dad's original machine needed industrial-grade electromagnetic coils that filled an entire room. I got it down to a pod. Miniaturization is the part I'm actually proud of, more than the physics. The physics was Dad's insight. The engineering is mine. Well -- mine and Ethan's.
+
+Stage two: frequency tuning. Once the field is amplified, the resonance array acts like a quantum radio dial. The ZPE field contains dimensional frequencies -- each parallel reality vibrating at its own signature within the vacuum. Without tuning, you'd just get noise. A blast of every frequency at once, like smashing your hand across a piano keyboard. The array isolates individual frequencies. Locks on to one.
+
+This is where my modification comes in. Dad's original Bridge had no targeting. It was a cannon, not a rifle -- it could punch through to another dimension, but it couldn't choose which one. I spent four years building a targeting system based on DNA resonance. Human DNA interacts with the ZPE field at prime-number harmonics -- the 23 chromosome pairs correspond to frequency relationships in the quantum vacuum. Each person's DNA creates a unique signature, like a fingerprint in the field. If I know the signature, I can tune the array to find it.
+
+I know my father's signature. Isolated it from his personal effects. Hair from his comb, skin cells from his lab coat, three years of learning to read quantum noise like a language. His echo is there. Faint but consistent. A thread in the fabric of the vacuum, leading somewhere.
+
+Stage three: superposition collapse. This is the jump itself. The amplified field wraps around whatever's inside the chamber -- me, in about twenty minutes -- and puts it in a state of dimensional superposition. I'll exist, briefly, in both my home dimension and the target dimension simultaneously. The resonance array then collapses the superposition toward the target. I materialize there. Hopefully in one piece.
+
+The ZPE harvester built into the pod generates about two to five kilowatts of continuous power -- drawn directly from vacuum fluctuations. It's like sticking a pinwheel in a hurricane. Captures almost nothing compared to what's there, but it's enough. Enough to power the pod's systems, the coils, the sensors. Enough to jump again once I arrive.
+
+That last part is important. The harvester means I'm not stranded. As long as the ZPE field exists -- and it exists everywhere, in every dimension, because it IS the fabric of reality -- the pod can draw power. I can jump.
+
+Dad's original machine, the room-sized one at the Institute, didn't have a harvester. It drew power from the grid. Industrial generators. The kind of energy bill that makes accountants weep. When it fired and took Dad with it, there was no way to jump back. No portable power source. No return ticket.
+
+I built the return ticket.
+
+My father built the original State Bridge. The one that blew up. His was the size of a room: massive coils, industrial generators, enough cable to wire a small city. It was supposed to prove a theory, not transport a person. But on the night of March 15, 2008, the theory became practical whether anyone was ready for it or not, and it took my father with it.
+
+I know this because I spent sixteen years figuring it out.
+
+I know this because the note told me where to look.
+
+It's not you, it's not me, it's Schrodinger. Not the thought experiment. Not the equation. The cat. Our actual cat. Schrodinger, who was in the lab that night, sitting on top of the resonance array because it was warm and he is a cat and that is what cats do. They found him the next morning in the wreckage. Alive. Uninjured. One-eyed. Completely unbothered.
+
+Sixteen years of research later, I can tell you why. The cat exists in a state of quantum superposition across at least two parallel dimensions simultaneously.
+
+And here's the part that still makes my head hurt, even after all these years. When the Bridge fired and the superposition collapse was incomplete -- when Dad went through but the field didn't fully resolve -- Schrodinger got caught in the middle. His quantum state split. One version went with Dad. One version stayed. Same cat. Same DNA, same consciousness, same prime-frequency resonance signature. Existing stably in two realities at once.
+
+He shouldn't be able to do that. Superposition is supposed to collapse the moment you observe it. That's the whole point of the Schrodinger's cat thought experiment -- the cat can't actually be alive and dead at the same time; the act of looking forces a resolution. But our Schrodinger isn't alive-and-dead. He's alive-and-alive. In two places. And the superposition isn't collapsing.
+
+That stable dual existence is what holds the door open. The Bridge needs a quantum channel between dimensions to function -- a persistent superposition that connects origin and destination. Schrodinger IS that channel. His biology, anchored in two realities simultaneously, maintains the connection.
+
+And here's the part that really bakes my noodle. Anyone who travels through that superposition -- through the door the cat holds open -- their biology gets anchored to his open state. They don't age during transit. Time is undefined in superposition. You can't be getting older if your quantum state is smeared across two realities; there's no single timeline for your cells to follow.
+
+But if the cat dies. In either reality. The superposition collapses. And everyone whose biology was anchored to that open state snaps back to their actual timeline. All the accumulated time catches up at once.
+
+The cat is the most important living being in the multiverse.
+
+He has absolutely no idea. He's currently sitting on my keyboard.
+
+"Get off the -- Schrodinger!"
+
+He shifts approximately one inch. Three of my calibration settings are now wrong. I fix them. He watches me fix them with an expression that says he'll do it again and we both know it.
+
+"Okay," I say. "This is it."
+
+He blinks. One slow blink. For Schrodinger, that's practically a standing ovation.
+
+I pull up the final diagnostic. Everything green. The resonance matrix is calibrated to my father's DNA signature -- a pattern I isolated from his personal effects and spent three years learning to read in the quantum noise. It's there. Faint but consistent. A thread.
+
+My phone buzzes. Ethan.
+
+You up? Three tacos or four?
+
+I stare at the message. Then I type: Four. And coffee.
+
+A pause. Then: It's 4 a.m. and you want four tacos and coffee. You're either about to do something brilliant or something profoundly stupid.
+
+Both, I type. Bring Schrodinger a bagel.
+
+The cat doesn't eat bagels, Lawson.
+
+He eats everything. He's a quantum anomaly with no standards.
+
+Fair point. Twenty minutes.
+
+I put down the phone.
+
+I look at the pod. I look at the cat. I look at the data.
+
+Sixteen years. A wrecked lab, a nine-word note, a one-eyed cat, and more hours of work than I can calculate. Which is saying something, because I can calculate most things.
+
+"Okay, Schrodinger," I say. "Just you and me."
+
+He yawns.
+
+I decide that counts.
