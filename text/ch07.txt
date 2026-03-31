@@ -47,21 +47,9 @@ I've run the final diagnostics three times. Not because I'm nervous. Because I'm
 
 Fine. Also because I'm nervous.
 
-Resonance matrix: locked onto the strongest of my father's DNA signatures. Let me explain what that means, because it took me three months to work it out and I'm unreasonably proud of it.
-
-Human DNA has twenty-three chromosome pairs. In the zero-point energy field -- the quantum vacuum that hums underneath everything, the energy that exists even in perfectly empty space -- those twenty-three pairs resonate. Not metaphorically. Physically. Each pair vibrates at a frequency that corresponds to a prime number harmonic. The first pair at the 2nd harmonic. Second pair at the 3rd. Third pair at the 5th. All the way up to the twenty-third pair resonating at the 83rd harmonic -- the twenty-third prime number.
-
-Twenty-three pairs. Twenty-three primes. That's not coincidence. That's architecture.
-
-And here's the thing: each person's specific DNA sequence creates a unique combination within those twenty-three harmonics. Think of it like a chord on a piano. Everyone plays the same twenty-three keys, but the specific voicing -- the timing, the amplitude, the phase relationships between the harmonics -- that's unique. That's your quantum fingerprint.
-
-When a person interacts with the quantum fabric of a reality -- just by existing in it, breathing its air, displacing its atoms -- their fingerprint gets pressed into the ZPE field. An echo. A trace. It degrades over time because the vacuum fluctuations slowly overwrite it, the way footprints in sand get smoothed by wind. But it never fully disappears. The prime harmonics are too fundamental. They're baked into the structure of reality itself.
-
-The pod's resonance matrix is calibrated to my father's chord. His specific twenty-three-harmonic signature, extracted from a blood sample he left on the State Bridge console sixteen years ago. The matrix can detect his echo in the ZPE field of any dimension we enter, the way a tuning fork vibrates when you play its note nearby.
+Resonance matrix: locked onto the strongest of my father's DNA signatures. The twenty-three-prime-harmonic chord I extracted from a blood sample he left on the State Bridge console sixteen years ago. Each person's DNA creates a unique quantum fingerprint in the ZPE field -- an echo that degrades over time but never fully disappears, because the prime harmonics are too fundamental.
 
 The stronger the echo, the more recently he was there.
-
-That's the theory. I'm about to find out if it's more than that.
 
 ZPE field: stable. Activation sequence: loaded.
 
@@ -193,7 +181,7 @@ My father was in this dimension at some point. His DNA interacted with the quant
 
 Dead end.
 
-But also: proof. The DNA trail works. My father passed through this reality, and his genetic signature left a detectable echo. The theory holds. Twenty-three chromosome pairs, resonating at prime harmonics in the quantum vacuum, traceable across dimensions.
+But also: proof. The DNA trail works. My father passed through this reality, and his genetic signature left a detectable echo. The theory holds. Twenty-three chromosome pairs, resonating at prime harmonics in the quantum vacuum, traceable.
 
 The science works.
 
@@ -335,9 +323,7 @@ Nothing.
 
 Hmm.
 
-One data point isn't a pattern. I file it.
-
-But I start paying attention.
+One data point isn't a pattern. But I start paying attention.
 
 Over the next several jumps, each one longer, each one further along my father's trail, I check. I photograph myself before and after. Same lighting, same angle, same expression. I measure pupil dilation. I count visible pores in a reference square centimeter on my left cheek. I check cell division markers -- telomere length proxy via a cheek swab test I jury-rigged from an aging study protocol Ethan found in the Institute's archives.
 
@@ -405,23 +391,15 @@ I'm starting to see the pattern.
 
 Dimensions five, six, seven, eight.
 
-Every reality I visit, Thorne is there. Not in person -- I'm careful to avoid his institutions. But his name surfaces in every dimension like a recurring signal in a data set. Sometimes small: a grant, a faculty position, a paper. Sometimes massive: a corporation, a government contractor, a name that reshapes communities.
+Thorne is there. Always. His name surfaces like a recurring signal. Sometimes small: a grant, a paper. Sometimes massive: a corporation, a name that reshapes communities.
 
 The scale changes. The man doesn't.
-
-I log it. I don't have a framework yet. Just a growing body of evidence that Elias Thorne is something more than a man who exists in multiple dimensions. He's a pattern. A recurring variable that always resolves to the same value.
 
 I think about Dad's note. It's not you, it's not me, it's Schrodinger.
 
 The cat in the box. The observer and the observed. The wave function that collapses into a single state.
 
-Is Thorne a collapsed wave function? A man who exists in the same state in every reality? No superposition. No uncertainty. Always the same.
-
-Wait. That doesn't work. A truly collapsed wave function would be deterministic, but he clearly makes different choices in different dimensions -- the scale changes, the methods change. He's not identical everywhere. He's... convergent. Different paths, same destination.
-
-That's not a collapsed wave function. That's something else.
-
-I don't know what.
+He's not identical everywhere. He's convergent. Different paths, same destination.
 
 More data needed.
 
@@ -441,11 +419,9 @@ The dual life is exhausting. Not because of the deception -- I'm actually good a
 
 And the whole time, I'm working at the Thorne Institute. Under Thorne's roof. Funded by Thorne's money. Smiling at colleagues with Thorne's name on their paychecks.
 
-The man whose name I keep finding in every dimension.
-
 The man who funded my father's research.
 
-I sit in meetings and nod and take notes and think: you're in every reality I've visited. Every single one. Why?
+I sit in meetings and think: why are you everywhere?
 
 But I smile. I nod. I play the part.
 
@@ -457,7 +433,7 @@ And at night, in the basement, Schrodinger on the journals, Ethan in the camp ch
 
 Nine jumps in. The trail is cold but consistent.
 
-My father was in every dimension I've visited. His DNA echo is faint but present in each one. A quantum fingerprint pressed into each reality through those twenty-three prime harmonics, embedded in the vacuum fluctuations the way a fossil gets pressed into stone. He moved through these places. Breathed this air. Stood where I'm standing.
+My father was in every dimension I've visited. His DNA echo faint but present. He moved through these places. Stood where I'm standing.
 
 And he kept going.
 
